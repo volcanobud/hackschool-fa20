@@ -1,16 +1,22 @@
 {
-  "name": "Pokemon_Battle",
+  "name": "hackschool-fa20",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "random": "^2.2.0",
-    "readline": "^1.3.0"
-  },
-  "devDependencies": {},
+  "description": "Repository for ACM's Hack School - Learn the MERN - Fall 2020",
+  "main": "\u001b[A\u001b[B",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volcanobud/hackschool-fa20.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volcanobud/hackschool-fa20/issues"
+  },
+  "homepage": "https://github.com/volcanobud/hackschool-fa20#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

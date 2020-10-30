@@ -10,10 +10,10 @@ function pokeBattle () {
   console.log("Pikachu attacked with " + p.Pikachu.attack(p.Ivy));
   
   console.log(p.Ivy.health);
-  if(p.Ivy.health == 0){
+  if(p.Ivy.health <= 0){
     console.log("Pikachu Wins");
   }
-  else if(p.Pikachu.health == 0){
+  else if(p.Pikachu.health <= 0){
     console.log("Ivy Wins");
   }
   // TODO WINNING CONDITIONS PRINT WHO WINS AND RETURN
