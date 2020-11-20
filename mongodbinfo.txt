@@ -1,0 +1,2 @@
+95cT4XT7ABfBSyMX
+mongodb+srv://admin:<password>@pokemongencluster.eaocy.mongodb.net/<dbname>?retryWrites=true&w=majority
